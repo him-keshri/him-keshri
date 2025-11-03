@@ -8,7 +8,6 @@
 - 💻 Currently learning AI/ML 
 - 🌐 Building innovative projects using **React, Node.js, and Cloud Computing**
 - 🤖 Passionate about **AI models** 
-- 🎥 Aspiring **Travel Vlogger** and content creator — merging tech + creativity  
 
 ---
 
