@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Keshri</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer & Problem Solver from India</h3>
+<h3 align="center"> A Passionate Frontend Developer & Problem Solver from India</h3>
 
 ---
 
-### 🧠 About Me
+###  About Me
 - 🎓 Final Year **Computer Science Student at SRM University, Kattankulathur**
 - 💻 Currently learning AI/ML
 - Working on Ai-website-generator
