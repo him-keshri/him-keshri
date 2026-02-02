@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
 | **Pneumonia Detection using Vision Transformer** | AI model for binary classification of chest X-rays | Python, PyTorch, Vision Transformer | [🔗 Repo](https://github.com/him-keshri/Vision-Transformer-Pneumonia-Detection) |
@@ -33,7 +33,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimanshuKeshri&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKeshri&theme=radical" alt="GitHub Streak" height="150"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 🌍 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-keshri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:himanshukeshri.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
@@ -50,9 +50,9 @@
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 > I can debug code faster than I can decide what to eat 😎  
 
 ---
 
-⭐ **If you like what you see, consider following me — let’s grow together!**
+ **If you like what you see, consider following me — let’s grow together!**
