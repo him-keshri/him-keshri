@@ -4,11 +4,11 @@
 ---
 
 ###  About Me
-- 🎓 Final Year **Computer Science Student at SRM University, Kattankulathur**
-- 💻 Currently learning AI/ML
+-  Final Year **Computer Science Student at SRM University, Kattankulathur**
+-  Currently learning AI/ML
 - Working on Ai-website-generator
-- 🌐 Building innovative projects using **React, Node.js, and Cloud Computing**
-- 🤖 Passionate about **AI models** 
+-  Building innovative projects using **React, Node.js, and Cloud Computing**
+-  Passionate about **AI models** 
 
 ---
 
