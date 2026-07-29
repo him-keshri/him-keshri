@@ -1,58 +1,120 @@
 <h1 align="center">Hi 👋, I'm Himanshu Keshri</h1>
-<h3 align="center"> A Passionate Frontend Developer & Problem Solver from India</h3>
+<h3 align="center">
+Software Engineer | Full Stack Developer | AI Enthusiast
+</h3>
 
----
-
-###  About Me
--  Final Year **Computer Science Student at SRM University, Kattankulathur**
--  Currently learning AI/ML
-- Working on Ai-website-generator
--  Building innovative projects using **React, Node.js, and Cloud Computing**
--  Passionate about **AI models** 
-
----
-
-### 🛠️ Tech Stack
-#### 💻 Languages
-`C++` `JavaScript` `Python` `HTML` `CSS`
-
-#### ⚙️ Frameworks / Libraries
-`React` `Node.js` `Express.js` `TailwindCSS`
-
-#### 🧠 Tools / Platforms
-`Git` `GitHub` `VS Code` `MongoDB` `Firebase` `SQL`
-
----
-
-###  Projects
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| **Pneumonia Detection using Vision Transformer** | AI model for binary classification of chest X-rays | Python, PyTorch, Vision Transformer | [🔗 Repo](https://github.com/him-keshri/Vision-Transformer-Pneumonia-Detection) |
-| **Smart Grocery Search & Checkout System** | AI-powered smart checkout web app | React, Node.js, Firebase | [🔗 Repo](https://github.com/him-keshri/smart-grocery-checkout) |
-| **Portfolio Website** | Personal portfolio showcasing my work | | [🔗 Live](https://himanshu-keshri-online.lovable.app) |
-
----
-
-###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuKeshri&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKeshri&theme=radical" alt="GitHub Streak" height="150"/>
+I enjoy building scalable web applications and AI-powered solutions using modern technologies.
 </p>
 
 ---
 
-###  Connect with Me
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering from **SRM Institute of Science and Technology**
+- 💻 Software Engineer passionate about building scalable products
+- 🤖 Interested in **Artificial Intelligence, Full Stack Development, and Product Engineering**
+- 🌱 Currently building AI-powered applications and exploring modern AI workflows
+- ⚡ Love solving real-world problems through clean and efficient code
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`C++` `JavaScript` `TypeScript` `Python` `SQL`
+
+### ⚙️ Frontend
+`React.js` `Next.js` `HTML5` `CSS3`
+
+### 🔧 Backend
+`Node.js`
+`Express.js`
+`REST APIs`
+`JWT`
+
+### 🗄️ Databases
+`MongoDB`
+`PostgreSQL`
+`MySQL`
+`Firebase`
+
+### 🧰 Tools
+`Git`
+`GitHub`
+`VS Code`
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern — JungleWorks
+**Dec 2025 – May 2026**
+
+- Built responsive and reusable UI components using React.js
+- Integrated REST APIs into production applications
+- Worked in Agile development teams
+- Debugged and optimized frontend performance
+- Used Git for collaborative development
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI Website Generator** | Generates complete websites from prompts using AI with modern frontend technologies. | React, Next.js, Node.js, TypeScript |
+| 🛒 **Smart Grocery Search & Checkout** | Full-stack application with search, cart, inventory management and secure checkout. | React, Node.js, Express, MongoDB |
+| 🩺 **Vision Transformer Pneumonia Detection** | Deep learning model that detects pneumonia from chest X-ray images using Vision Transformer architecture. | Python, PyTorch, Vision Transformer |
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-keshri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:himanshukeshri.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=him-keshri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=him-keshri&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him-keshri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-###  Fun Fact
-> I can debug code faster than I can decide what to eat 😎  
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/himanshu-keshri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:himkeshri04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
- **If you like what you see, consider following me — let’s grow together!**
+## 📊 Coding Profiles
+
+- 💻 LeetCode
+- 🌟 GitHub
+- 🔗 LinkedIn
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into products—from AI experiments to full-stack applications.
+
+---
+
+⭐ If you find my work interesting, consider starring my repositories or connecting with me!
